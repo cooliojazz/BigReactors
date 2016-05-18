@@ -28,6 +28,27 @@ usernamecache.json
 .DS_Store
 *.command
 
+# Windows Stuff
+Thumbs.db
+Desktop.ini
+
+# Thumbnails
+._*
+
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
 # External APIs
 /lib
 
